@@ -1,5 +1,5 @@
 #SC663401 Basic Programing for Data Science and Data Visualization
-> ปิยพัทธ์ ปานะถึก 643020507-4
+> ปิยพัทธ์ ปานะถึก 643020507-4 กลุ่ม alonedหน่าาา
 ------------------------------
 
 python & Markdown
